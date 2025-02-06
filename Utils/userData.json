@@ -1,0 +1,27 @@
+[
+  {
+    "firstName": "Jennie",
+    "lastName": "Rodriguez",
+    "email": "anikkumardas966+2855@gmail.com",
+    "password": "12345",
+    "phoneNumber": "01547933498",
+    "address": "Kochmouth"
+  },
+  
+  {
+    "firstName": "Irving",
+    "lastName": "Haag",
+    "email": "anikkumardas966+4599@gmail.com",
+    "password": "12345",
+    "phoneNumber": "01586114710",
+    "address": "Encinitas"
+  },
+  {
+    "firstName": "Rupert",
+    "lastName": "Veum",
+    "email": "anikkumardas966+6900@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01512896839",
+    "address": "South Bernardo"
+  }
+]
